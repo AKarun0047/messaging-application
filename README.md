@@ -1,4 +1,4 @@
-Command-Line Messaging Application
+#Command-Line Messaging Application
 
 This is a simple command-line messaging application written in Go. It allows users to send messages between each other, broadcast messages to all users, and view their message logs.
 Installation
